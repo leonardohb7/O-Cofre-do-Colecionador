@@ -1,7 +1,9 @@
 O Cofre do Colecionador
 
 Link do deploy: https://c-p4-low-code-dev-3930zb.flutterflow.app/
+
 Link do video do app no desktop: https://youtu.be/sP1xJA_rAFw
+
 Link do post LinkedIN: https://www.linkedin.com/posts/leonardohenriquebasseti_animado-em-compartilhar-meu-novo-projeto-activity-7368454930912686082-vWUr?utm_source=share&utm_medium=member_desktop&rcm=ACoAADXWUbUBYBfr1eAcnCCo1xElLg25ZcmIV7o
 
 Onde cada item da sua coleção encontra seu lugar de honra.
@@ -27,7 +29,11 @@ Projeto desenvolvido para o Checkpoint 4 de Low Code Dev, Turma 1TWDPF da FIAP.
 Integrantes do projeto:
 
 Leonardo Henrique Basseti - 564231
+
 Isabella Tragante de Siqueira - 563973
+
 Victoria Barreto - 562435
+
 Helena Caceres - 563814
+
 Álvaro Milantonio - 561652
