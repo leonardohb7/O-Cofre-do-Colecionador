@@ -1,7 +1,5 @@
 O Cofre do Colecionador
 
-Link do deploy: https://c-p4-low-code-dev-3930zb.flutterflow.app/
-
 Link do video do app no desktop: https://youtu.be/sP1xJA_rAFw
 
 Link do post LinkedIN: https://www.linkedin.com/posts/leonardohenriquebasseti_animado-em-compartilhar-meu-novo-projeto-activity-7368454930912686082-vWUr?utm_source=share&utm_medium=member_desktop&rcm=ACoAADXWUbUBYBfr1eAcnCCo1xElLg25ZcmIV7o
